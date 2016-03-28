@@ -1,4 +1,4 @@
-var hamming = require('./hamming');
+var hamming = require('../hamming');
 
 describe('A program to compute Hamming distance', function () {
 
